@@ -1,0 +1,554 @@
+{
+    "581930657190641670": {
+        "server": {
+            "name": "Ryoko 👻 - Official",
+            "token": "T96q.CLc6k6q25O.gvF8J3",
+            "prefix": "-",
+            "language": 0,
+            "count": 0,
+            "categories": {
+                "utilities": false,
+                "games": true,
+                "fun": true,
+                "moderation": false,
+                "nsfw": true,
+                "info": true,
+                "search": false
+            },
+            "gWins": 0,
+            "gDefeats": 0
+        },
+        "users": {
+            "530819895613456404": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            },
+            "460105234748801024": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            },
+            "672784962378006581": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            },
+            "354165394904449024": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            }
+        }
+    },
+    "729652202196566046": {
+        "server": {
+            "name": "Mangaka MGV 🍃",
+            "token": "B98u.NOy0t5x62E.afC0A5",
+            "prefix": "-",
+            "language": 0,
+            "count": 0,
+            "categories": {
+                "utilities": false,
+                "games": true,
+                "fun": true,
+                "moderation": false,
+                "nsfw": true,
+                "info": true,
+                "search": false
+            },
+            "gWins": 0,
+            "gDefeats": 0
+        },
+        "users": {
+            "386183757159202817": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            },
+            "664138983063683131": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            }
+        }
+    },
+    "701799523369877614": {
+        "server": {
+            "name": "OwO Land",
+            "token": "E21x.EFc1z2l50M.chW5U6",
+            "prefix": "-",
+            "language": 0,
+            "count": 0,
+            "categories": {
+                "utilities": false,
+                "games": true,
+                "fun": true,
+                "moderation": false,
+                "nsfw": true,
+                "info": true,
+                "search": false
+            },
+            "gWins": 0,
+            "gDefeats": 0
+        },
+        "users": {
+            "366891467328978946": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            },
+            "726840180429947001": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            },
+            "159985870458322944": {
+                "games": {
+                    "battle": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "power4": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "findme": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "flipcoin": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "memory": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "pacman": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "predictdice": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "rps": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "slotmachine": {
+                        "wins": 0,
+                        "defeats": 0
+                    },
+                    "tictactoe": {
+                        "wins": 0,
+                        "defeats": 0
+                    }
+                },
+                "life": 100,
+                "ready": {
+                    "ready": true,
+                    "oppenent": null
+                },
+                "ship": {
+                    "ship": null,
+                    "propose": null,
+                    "state": "single"
+                }
+            }
+        }
+    }
+}
