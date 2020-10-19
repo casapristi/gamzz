@@ -12,7 +12,7 @@ client.categories=fs.readdirSync("./commandes/");
 client.on("message",async (message)=>{
     require("./on/message.js")(client,message);
 });
-client.login(config.Btoken);
+client.login(process.env.TOKEN);
 let userApplications={};
 client.on("message",function(message){
     if(!user[message.author.id]){
